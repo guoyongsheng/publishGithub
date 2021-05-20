@@ -18,4 +18,9 @@ object StringUtils {
     fun isNumber(phoneNumber: String): Boolean{
         return phoneNumber == "111222"
     }
+
+
+    fun isPhoneNumber(): Boolean {
+        return false
+    }
 }
