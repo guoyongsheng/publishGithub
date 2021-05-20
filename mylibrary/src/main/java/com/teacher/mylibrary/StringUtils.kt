@@ -23,4 +23,9 @@ object StringUtils {
     fun isPhoneNumber(): Boolean {
         return false
     }
+
+
+    fun isIdCard(): Boolean {
+        return false
+    }
 }
