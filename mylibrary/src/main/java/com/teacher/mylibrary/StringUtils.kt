@@ -28,4 +28,7 @@ object StringUtils {
     fun isIdCard(): Boolean {
         return false
     }
+
+
+    fun isPerson() = false
 }
